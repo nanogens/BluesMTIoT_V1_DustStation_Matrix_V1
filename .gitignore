@@ -1,0 +1,28 @@
+# STM32CubeIDE Build Output
+Debug/
+Release/
+
+# STM32CubeMX backup files
+*.bak
+*.backup
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Object and binary files
+*.o
+*.d
+*.elf
+*.map
+*.hex
+*.bin
+*.lst
+*.su
+*.exe
+*.dep
+
+# IDE metadata (auto-generated)
+.cmetadata
+*.launch
+
